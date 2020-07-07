@@ -1,0 +1,583 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ef08a74a54d48613f6af530b6438d8f2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4c63fc107aa5691d775e7532ec5ce58e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e128f260a32d39a1442fce9a0b1a26a1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1d53a149b71392f9ee03024c62ce8129\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\a60a5d82b0a9734219955597cedd20a2\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\01d645db01398ab54c293d8951528ad0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\aab234137f1804a928ea41389b1d428f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ec8453d9757436de81281bc1657cab61\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1a4607aeb4b33f8fb26f983520d55b83\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\10b395b26c0fb34d01ed32aa6f44746b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\696fe02459699b296a78ef985f2de1db\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9093a7b3f90cf4aaf750c01a4bc6d8c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b43e0b134c85d147668e8032c7e49584\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\97dbf7b8889ee101a80769e08aa34dbb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\d426f4d60c92cfa952a1d2738a97439c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6499c60cb115a7429035f82b8803a43a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8a2163faded698c06098fcadf14e4240\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\006a4ac0dbf639fd9674f8a426a34d3c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6f406d01e039bf69691298bfa6b9210d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\305f97d2710b618eeee56bb463715f5e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\31bb821f87cc9b7c5189de449e5fce4c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7871d4cb4b983462eda86d3023700098\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd429eab09e366c6ea9badb61cf7df22\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1f6fb7fc5592105d008cde148a49b4cc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9c7224dd863b469f589b6d8e17dd876\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\f5213b80fe933fe5b392f4dce77f3032\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8c1513659ab44e6bf4705b00ffc5ac5f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e12c13a54a604bfc6195464ed9fdb2da\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\211da89a1860db6942d4a7da6c562bd3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b611fc80b3092dd9d56a2b1c296a1704\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8f9c6b2731da5ab4bb0fb11206078e5f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\18498ed9d4ebc1d25fb0bad2cd59d373\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2cc6a7eaa6fdca7cdc4e43912d1b11d3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\9e0fb9214d01375010a0fea1753c1830\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd705f7fa7c813b6eb7957db68bdfdf8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b12db238a1168a40563e1268ceb69416\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\54e5d294d875ae2de17832c2ae1a6abb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\3242ca1a3c65d7e98d319bf0c89a75ac\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6ada666dd4c5cf08cab2265912a2b599\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:14:5-55:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ef08a74a54d48613f6af530b6438d8f2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ef08a74a54d48613f6af530b6438d8f2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e128f260a32d39a1442fce9a0b1a26a1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e128f260a32d39a1442fce9a0b1a26a1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\01d645db01398ab54c293d8951528ad0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\01d645db01398ab54c293d8951528ad0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\aab234137f1804a928ea41389b1d428f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\aab234137f1804a928ea41389b1d428f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:30:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ec8453d9757436de81281bc1657cab61\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ec8453d9757436de81281bc1657cab61\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\10b395b26c0fb34d01ed32aa6f44746b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\10b395b26c0fb34d01ed32aa6f44746b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9093a7b3f90cf4aaf750c01a4bc6d8c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9093a7b3f90cf4aaf750c01a4bc6d8c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b43e0b134c85d147668e8032c7e49584\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b43e0b134c85d147668e8032c7e49584\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\97dbf7b8889ee101a80769e08aa34dbb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\97dbf7b8889ee101a80769e08aa34dbb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\d426f4d60c92cfa952a1d2738a97439c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\d426f4d60c92cfa952a1d2738a97439c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6499c60cb115a7429035f82b8803a43a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6499c60cb115a7429035f82b8803a43a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8a2163faded698c06098fcadf14e4240\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8a2163faded698c06098fcadf14e4240\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\006a4ac0dbf639fd9674f8a426a34d3c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\006a4ac0dbf639fd9674f8a426a34d3c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6f406d01e039bf69691298bfa6b9210d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6f406d01e039bf69691298bfa6b9210d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\305f97d2710b618eeee56bb463715f5e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\305f97d2710b618eeee56bb463715f5e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\31bb821f87cc9b7c5189de449e5fce4c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\31bb821f87cc9b7c5189de449e5fce4c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7871d4cb4b983462eda86d3023700098\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7871d4cb4b983462eda86d3023700098\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd429eab09e366c6ea9badb61cf7df22\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd429eab09e366c6ea9badb61cf7df22\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1f6fb7fc5592105d008cde148a49b4cc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1f6fb7fc5592105d008cde148a49b4cc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9c7224dd863b469f589b6d8e17dd876\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9c7224dd863b469f589b6d8e17dd876\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\f5213b80fe933fe5b392f4dce77f3032\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\f5213b80fe933fe5b392f4dce77f3032\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8c1513659ab44e6bf4705b00ffc5ac5f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8c1513659ab44e6bf4705b00ffc5ac5f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e12c13a54a604bfc6195464ed9fdb2da\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e12c13a54a604bfc6195464ed9fdb2da\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\211da89a1860db6942d4a7da6c562bd3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\211da89a1860db6942d4a7da6c562bd3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b611fc80b3092dd9d56a2b1c296a1704\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b611fc80b3092dd9d56a2b1c296a1704\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8f9c6b2731da5ab4bb0fb11206078e5f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8f9c6b2731da5ab4bb0fb11206078e5f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\18498ed9d4ebc1d25fb0bad2cd59d373\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\18498ed9d4ebc1d25fb0bad2cd59d373\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2cc6a7eaa6fdca7cdc4e43912d1b11d3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2cc6a7eaa6fdca7cdc4e43912d1b11d3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\9e0fb9214d01375010a0fea1753c1830\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\9e0fb9214d01375010a0fea1753c1830\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd705f7fa7c813b6eb7957db68bdfdf8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd705f7fa7c813b6eb7957db68bdfdf8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b12db238a1168a40563e1268ceb69416\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b12db238a1168a40563e1268ceb69416\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\54e5d294d875ae2de17832c2ae1a6abb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\54e5d294d875ae2de17832c2ae1a6abb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\3242ca1a3c65d7e98d319bf0c89a75ac\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\3242ca1a3c65d7e98d319bf0c89a75ac\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6ada666dd4c5cf08cab2265912a2b599\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6ada666dd4c5cf08cab2265912a2b599\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:17:9-37
+	android:allowBackup
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:15:9-37
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:31:9-33:55
+	android:value
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.example.ahsan.getambulance.MainActivity
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:37:13-38
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.ahsan.getambulance.MapsActivity
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:44:9-50
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:44:19-47
+activity#com.example.ahsan.getambulance.View.AboutActivity
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:45:9-47:49
+	android:theme
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:47:13-46
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:46:13-47
+activity#com.example.ahsan.getambulance.SearchActivity
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:48:9-52
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:48:19-49
+activity#com.example.ahsan.getambulance.Admin
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:49:9-43
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:49:19-40
+activity#com.example.ahsan.getambulance.POPup
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:50:9-43
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:50:19-40
+activity#com.example.ahsan.getambulance.Hospitals
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:51:9-47
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:51:19-44
+activity#com.example.ahsan.getambulance.HospitalDetails
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:52:9-53
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:52:19-50
+activity#com.example.ahsan.getambulance.RateActivity
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:53:9-50
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:53:19-47
+activity#com.example.ahsan.getambulance.BookingActivity
+ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:54:9-62
+	android:name
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml:54:19-50
+uses-sdk
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ef08a74a54d48613f6af530b6438d8f2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ef08a74a54d48613f6af530b6438d8f2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4c63fc107aa5691d775e7532ec5ce58e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4c63fc107aa5691d775e7532ec5ce58e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e128f260a32d39a1442fce9a0b1a26a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e128f260a32d39a1442fce9a0b1a26a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1d53a149b71392f9ee03024c62ce8129\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1d53a149b71392f9ee03024c62ce8129\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\a60a5d82b0a9734219955597cedd20a2\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\a60a5d82b0a9734219955597cedd20a2\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\01d645db01398ab54c293d8951528ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\01d645db01398ab54c293d8951528ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\aab234137f1804a928ea41389b1d428f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\aab234137f1804a928ea41389b1d428f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ec8453d9757436de81281bc1657cab61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\ec8453d9757436de81281bc1657cab61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1a4607aeb4b33f8fb26f983520d55b83\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1a4607aeb4b33f8fb26f983520d55b83\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\10b395b26c0fb34d01ed32aa6f44746b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\10b395b26c0fb34d01ed32aa6f44746b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\696fe02459699b296a78ef985f2de1db\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\696fe02459699b296a78ef985f2de1db\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9093a7b3f90cf4aaf750c01a4bc6d8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9093a7b3f90cf4aaf750c01a4bc6d8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b43e0b134c85d147668e8032c7e49584\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b43e0b134c85d147668e8032c7e49584\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\97dbf7b8889ee101a80769e08aa34dbb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\97dbf7b8889ee101a80769e08aa34dbb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\d426f4d60c92cfa952a1d2738a97439c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\d426f4d60c92cfa952a1d2738a97439c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6499c60cb115a7429035f82b8803a43a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6499c60cb115a7429035f82b8803a43a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8a2163faded698c06098fcadf14e4240\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8a2163faded698c06098fcadf14e4240\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\006a4ac0dbf639fd9674f8a426a34d3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\006a4ac0dbf639fd9674f8a426a34d3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6f406d01e039bf69691298bfa6b9210d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6f406d01e039bf69691298bfa6b9210d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\305f97d2710b618eeee56bb463715f5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\305f97d2710b618eeee56bb463715f5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\31bb821f87cc9b7c5189de449e5fce4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\31bb821f87cc9b7c5189de449e5fce4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7871d4cb4b983462eda86d3023700098\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7871d4cb4b983462eda86d3023700098\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd429eab09e366c6ea9badb61cf7df22\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd429eab09e366c6ea9badb61cf7df22\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1f6fb7fc5592105d008cde148a49b4cc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1f6fb7fc5592105d008cde148a49b4cc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9c7224dd863b469f589b6d8e17dd876\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9c7224dd863b469f589b6d8e17dd876\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\f5213b80fe933fe5b392f4dce77f3032\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\f5213b80fe933fe5b392f4dce77f3032\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8c1513659ab44e6bf4705b00ffc5ac5f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8c1513659ab44e6bf4705b00ffc5ac5f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e12c13a54a604bfc6195464ed9fdb2da\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\e12c13a54a604bfc6195464ed9fdb2da\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\211da89a1860db6942d4a7da6c562bd3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\211da89a1860db6942d4a7da6c562bd3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b611fc80b3092dd9d56a2b1c296a1704\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b611fc80b3092dd9d56a2b1c296a1704\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8f9c6b2731da5ab4bb0fb11206078e5f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8f9c6b2731da5ab4bb0fb11206078e5f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\18498ed9d4ebc1d25fb0bad2cd59d373\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\18498ed9d4ebc1d25fb0bad2cd59d373\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2cc6a7eaa6fdca7cdc4e43912d1b11d3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2cc6a7eaa6fdca7cdc4e43912d1b11d3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\9e0fb9214d01375010a0fea1753c1830\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\9e0fb9214d01375010a0fea1753c1830\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd705f7fa7c813b6eb7957db68bdfdf8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd705f7fa7c813b6eb7957db68bdfdf8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b12db238a1168a40563e1268ceb69416\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b12db238a1168a40563e1268ceb69416\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\54e5d294d875ae2de17832c2ae1a6abb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\54e5d294d875ae2de17832c2ae1a6abb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\3242ca1a3c65d7e98d319bf0c89a75ac\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\3242ca1a3c65d7e98d319bf0c89a75ac\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6ada666dd4c5cf08cab2265912a2b599\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6ada666dd4c5cf08cab2265912a2b599\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Android\GetAmbulance\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efc56a0a12d32582b8f88a84d9f897eb\AndroidManifest.xml:24:13-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\aab234137f1804a928ea41389b1d428f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\aab234137f1804a928ea41389b1d428f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\006a4ac0dbf639fd9674f8a426a34d3c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\006a4ac0dbf639fd9674f8a426a34d3c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6f406d01e039bf69691298bfa6b9210d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6f406d01e039bf69691298bfa6b9210d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\305f97d2710b618eeee56bb463715f5e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\305f97d2710b618eeee56bb463715f5e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\31bb821f87cc9b7c5189de449e5fce4c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\31bb821f87cc9b7c5189de449e5fce4c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7871d4cb4b983462eda86d3023700098\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7871d4cb4b983462eda86d3023700098\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd429eab09e366c6ea9badb61cf7df22\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\fd429eab09e366c6ea9badb61cf7df22\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1f6fb7fc5592105d008cde148a49b4cc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1f6fb7fc5592105d008cde148a49b4cc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9c7224dd863b469f589b6d8e17dd876\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9c7224dd863b469f589b6d8e17dd876\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\f5213b80fe933fe5b392f4dce77f3032\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\f5213b80fe933fe5b392f4dce77f3032\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8c1513659ab44e6bf4705b00ffc5ac5f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\8c1513659ab44e6bf4705b00ffc5ac5f\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\2fe969a9ee0bb91ba3dcfc93e69ef5ee\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\efba3f4bf5c74ea95ebffe1d6e38d97e\AndroidManifest.xml:28:9-32
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\52bdfcd31b1332be2c8dceae70677218\AndroidManifest.xml:32:25-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\4abf6d8674024bf9d6e21ce615076fa6\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\210ab9669757531162c46b3467b13611\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:29:9-63
+permission#com.example.ahsan.getambulance.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:32:22-76
+uses-permission#com.example.ahsan.getambulance.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.ahsan.getambulance
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:42:27-58
+category#com.example.ahsan.getambulance
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\49c9e668cbc033189540d4cc01c39dd1\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\1fb3d361bf7b36211bcb3e74248f950a\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\7878861d0bbfe0f5273cd4fad1e60b2f\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9093a7b3f90cf4aaf750c01a4bc6d8c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9093a7b3f90cf4aaf750c01a4bc6d8c\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\b9093a7b3f90cf4aaf750c01a4bc6d8c\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6ada666dd4c5cf08cab2265912a2b599\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6ada666dd4c5cf08cab2265912a2b599\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AHSAN\.gradle\caches\transforms-2\files-2.1\6ada666dd4c5cf08cab2265912a2b599\AndroidManifest.xml:26:13-58

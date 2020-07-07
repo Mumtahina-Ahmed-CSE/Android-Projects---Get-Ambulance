@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233580033008",
+    "firebase_url": "https://getambulance-c14b1.firebaseio.com",
+    "project_id": "getambulance-c14b1",
+    "storage_bucket": "getambulance-c14b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233580033008:android:48f18342a4a23d62",
+        "android_client_info": {
+          "package_name": "com.example.ahsan.getambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233580033008-ll2mckl3j8ed6slbfmulb3b8bon3874c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahsan.getambulance",
+            "certificate_hash": "ef7002c0856a08f2180f52e2576fdb3604d50a98"
+          }
+        },
+        {
+          "client_id": "233580033008-b55jmmauh6e3j0ilkg2nfs3kgcm7c4ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomAPFwwrG8Dq8MZZkGRTdro4-_b9qf-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233580033008-b55jmmauh6e3j0ilkg2nfs3kgcm7c4ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ahsan.getambulance.HospitalDetails">
+
+    <ListView
+        android:id="@+id/attri"
+        android:layout_width="170dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="103dp" />
+
+    <ListView
+        android:id="@+id/value"
+        android:layout_width="180dp"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@+id/attri"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/attri"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/attri"
+        android:layout_marginBottom="25dp"
+        android:text="Book from here"
+        android:background="@color/Green"/>
+</RelativeLayout>

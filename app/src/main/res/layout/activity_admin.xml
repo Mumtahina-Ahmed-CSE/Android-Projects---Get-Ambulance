@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    tools:context="com.example.ahsan.getambulance.Admin">
+
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextn"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/editTextn"
+        android:layout_marginBottom="47dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp"
+        android:layout_weight="1"
+        android:layout_x="150dp"
+        android:layout_y="384dp"
+        android:text="Upadate to database"
+        tools:layout_editor_absoluteX="174dp"
+        tools:layout_editor_absoluteY="338dp" />
+
+    <EditText
+        android:id="@+id/editTextl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button10"
+        android:layout_alignLeft="@+id/editTextc"
+        android:layout_alignStart="@+id/editTextc"
+        android:layout_marginBottom="47dp"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp"
+        android:layout_x="134dp"
+        android:layout_y="167dp"
+        android:ems="10"
+        android:hint="Key"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="111dp" />
+
+    <EditText
+        android:id="@+id/editTextn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/spinner"
+        android:layout_alignRight="@+id/spinner"
+        android:layout_below="@+id/editTextl"
+        android:layout_marginTop="110dp"
+        android:layout_x="135dp"
+        android:layout_y="105dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <EditText
+        android:id="@+id/editTextc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editTextn"
+        android:layout_alignLeft="@+id/button10"
+        android:layout_alignStart="@+id/button10"
+        android:layout_marginBottom="30dp"
+        android:layout_x="133dp"
+        android:layout_y="226dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="253dp" />
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="22dp"
+        android:layout_y="119dp"
+        android:text="Name"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="121dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="21dp"
+        android:layout_y="237dp"
+        android:text="Contact"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="262dp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="271dp"
+        android:layout_height="wrap_content"
+        android:layout_x="29dp"
+        android:layout_y="26dp"
+        android:spinnerMode="dropdown"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="19dp"
+        android:layout_y="182dp"
+        android:text="Location"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="375dp"
+        tools:layout_editor_absoluteY="174dp" />
+</AbsoluteLayout>

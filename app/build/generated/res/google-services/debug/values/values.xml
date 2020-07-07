@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">233580033008-b55jmmauh6e3j0ilkg2nfs3kgcm7c4ac.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://getambulance-c14b1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">233580033008</string>
+    <string name="google_api_key" translatable="false">AIzaSyAomAPFwwrG8Dq8MZZkGRTdro4-_b9qf-c</string>
+    <string name="google_app_id" translatable="false">1:233580033008:android:48f18342a4a23d62</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAomAPFwwrG8Dq8MZZkGRTdro4-_b9qf-c</string>
+    <string name="google_storage_bucket" translatable="false">getambulance-c14b1.appspot.com</string>
+    <string name="project_id" translatable="false">getambulance-c14b1</string>
+</resources>
